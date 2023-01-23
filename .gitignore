@@ -1,0 +1,9 @@
+# directories
+/tests
+/build
+/dist
+/__pycache__/
+
+# files
+*.env
+*.pyc
